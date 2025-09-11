@@ -4,7 +4,7 @@ A repository containing my solutions and explorations of various pandas exercise
 
 ## Source
 
-The exercises are from Alex Riley
+The exercises are from Alex Riley<br>
 Link to Original Exercises- https://github.com/ajcr/100-pandas-puzzles
 
 ## My Approach
